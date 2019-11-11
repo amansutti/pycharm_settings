@@ -1,0 +1,14 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="CollapseRegionRecursively" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+</keymap>
