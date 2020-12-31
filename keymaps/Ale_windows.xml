@@ -30,6 +30,7 @@
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f2" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoNextError" />
   <action id="Graph.ApplyCurrentLayout" />
