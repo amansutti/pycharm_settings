@@ -1,0 +1,20 @@
+<keymap version="1" name="Ale_windows" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="Vcs.ToggleAmendCommitMode" />
+</keymap>
