@@ -1,4 +1,4 @@
-<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+<keymap version="1" name="Ale_Gnome" parent="Default for GNOME">
   <action id="JumpToLastWindow" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
