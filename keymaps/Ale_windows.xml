@@ -10,6 +10,11 @@
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
   <action id="ChooseRunConfiguration" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -72,6 +77,7 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl k" />
   </action>
+  <action id="ToggleBookmark7" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
