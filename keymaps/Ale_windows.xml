@@ -1,4 +1,9 @@
 <keymap version="1" name="Ale_windows" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
@@ -15,6 +20,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl 7" />
   </action>
+  <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -23,6 +29,10 @@
   <action id="DatabaseView.CopyTable" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt m" />
