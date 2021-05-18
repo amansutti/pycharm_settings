@@ -61,7 +61,13 @@
     <keyboard-shortcut first-keystroke="f2" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl n" />
+  </action>
   <action id="GotoNextError" />
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl p" />
+  </action>
   <action id="Graph.ApplyCurrentLayout" />
   <action id="JumpToLastWindow" />
   <action id="ManageRecentProjects">
