@@ -15,6 +15,10 @@
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
   <action id="ChooseRunConfiguration" />
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
