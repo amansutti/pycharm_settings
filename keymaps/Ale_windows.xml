@@ -41,7 +41,9 @@
     <keyboard-shortcut first-keystroke="shift alt insert" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="EvaluateExpression" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt m" />
@@ -79,6 +81,7 @@
   </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
+  <action id="RecentLocations" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="alt f8" />
